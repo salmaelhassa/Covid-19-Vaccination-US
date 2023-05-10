@@ -1,4 +1,4 @@
-# Hunter-Undergradute-Courses
+# SQL-Final-Project
 Topic:
 Covid-19 vaccinations on US data.
 Problem statement:
